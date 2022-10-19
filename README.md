@@ -1,7 +1,7 @@
 <h1 align="center"> AI SW developer </h1>
 <h3 align="center">developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=seungheekk&label=Profile%20views&color=0e75b6&style=flat" alt="seungheekk" /> </p>
+<p align="left"> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
