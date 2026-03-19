@@ -1,4 +1,4 @@
-<h1 align="center"> AI SW </h1>
+<h1 align="center"> SW </h1>
 <h3 align="center">developer</h3>
 
 <p align="left"> </p>
