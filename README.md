@@ -12,6 +12,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=seungheekk&show_icons=true&theme=dark&bg_color=070c9c&locale=en&layout=compact" alt="seungheekk" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seungheekk&show_icons=true&locale=en" alt="seungheekk" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=seungheekk&" alt="seungheekk" /></p>
